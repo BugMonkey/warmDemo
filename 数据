@@ -1,0 +1,42 @@
+1. 网址
+http://win.madeinchina.cn/saas/land.html  //登陆页
+
+2. 账号密码
+791281557@qq.com
+JOSCOLILY@914501
+
+3.查询请求
+ 
+__EVENTARGUMENT
+__LASTFOCUS
+__VIEWSTATE=/wEPDwUKMTI2ODIxOTc0MQ9kFgICAw9kFgYCAQ8WAh4EVGV4dAUWPGI+5pCc57Si5p2h5Lu277yaPC9iPmQCAw8QZBAVIwnpgInmi6nnnIEG5a6J5b69BuWMl+S6rAbnpo/lu7oG55SY6IKDBuW5v+S4nAblub/opb8G6LS15beeBua1t+WNlwbmsrPljJcG5rKz5Y2XCem7kem+meaxnwbmuZbljJcG5rmW5Y2XBuWQieaelwbmsZ/oi48G5rGf6KW/Bui+veWugQnlhoXokpnlj6QG5a6B5aSPBumdkua1twblsbHkuJwG5bGx6KW/BumZleilvwbkuIrmtbcG5Zub5bedBuWkqea0pQbopb/ol48G5paw55aGBuS6keWNlwbmtZnmsZ8G6YeN5bqGBummmea4rwbmvrPpl6gG5Y+w5rm+FSMBMAQxMDAyBDEwOTgEMTEwMwQxMTgxBDI2MTQEMTI3NwQxMzgyBDE0NzQEMTUxMQQxNjcwBDE4MTYEMTkwOAQyMDAyBDIxMTgEMjE3NwQyMjU4BDIzNjEEMjQzNAQyNTM2BDI1NjEEMjg0NwQyNzI4BDI5NzMEMjYxMAQzMDc4BDMyNTYEMzI5MAQzMzcxBDM1NTkEMzQ3OAQzMjYyBDk5OTcEOTk5OAQ5OTk5FCsDI2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnFgECD2QCBA8QZBAVDgnpgInmi6nluIIG5bi45beeBua3ruWuiQnov57kupHmuK8G5Y2X5LqsBuWNl+mAmgboi4/lt54G5a6/6L+BBuazsOW3ngbml6DplKEG5b6Q5beeBuebkOWfjgbmiazlt54G6ZWH5rGfFQ4BMAQyMjQzBDIxOTYEMjE5MAQyMTc4BDIyMzAEMjI1MQQyMjAyBDIyMjQEMjI0NwQyMTgyBDIyMDgEMjIxOAQyMjM4FCsDDmdnZ2dnZ2dnZ2dnZ2dnZGRkBOfgZpiy4VU3YaOCWZILyFoZ1+Yk1rLXeMzUL6A01bk=
+corpkey
+drpProvince=2177
+drpCity=2224
+begintme=2013-03-25
+endtme=2018-03-25
+Button1=搜索客户
+textfield2
+
+
+4 登陆请求
+
+
+POST http://win.madeinchina.cn/saas/LoginControl.aspx HTTP/1.1
+Host: win.madeinchina.cn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Referer: http://win.madeinchina.cn/saas/land.html
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Content-Length: 69
+Cookie: ASP.NET_SessionId=f5eixq0tgvq0rayr3sk1rykq
+Connection: keep-alive
+
+type=1&inputCode=dvww&Email=791281557%40qq.com&pwd=JOSCOLILY%40914501
+
+
+
+4.
